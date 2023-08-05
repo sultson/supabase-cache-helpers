@@ -359,7 +359,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     dependencies:
       '@supabase-cache-helpers/postgrest-filter': link:../postgrest-filter
@@ -376,7 +376,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/postgrest-filter:
@@ -393,7 +393,7 @@ importers:
       fast-equals: ^5.0.1
       jest: 29.6.1
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
       xregexp: ^5.1.1
     dependencies:
@@ -411,7 +411,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/postgrest-mutate:
@@ -430,7 +430,7 @@ importers:
       jest: 29.6.1
       merge-anything: ^5.1.7
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     dependencies:
       '@supabase-cache-helpers/postgrest-filter': link:../postgrest-filter
@@ -448,7 +448,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/postgrest-react-query:
@@ -475,7 +475,7 @@ importers:
       react: 18.2.0
       react-dom: 18.2.0
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     dependencies:
       '@supabase-cache-helpers/postgrest-fetcher': link:../postgrest-fetcher
@@ -501,7 +501,7 @@ importers:
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/postgrest-shared:
@@ -518,7 +518,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     devDependencies:
       '@supabase-cache-helpers/eslint-config-custom': link:../eslint-config-custom
@@ -533,7 +533,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/postgrest-swr:
@@ -560,7 +560,7 @@ importers:
       react-dom: 18.2.0
       swr: ^2.2.0
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
       xregexp: ^5.1.1
     dependencies:
@@ -588,7 +588,7 @@ importers:
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/prettier-config:
@@ -610,7 +610,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     devDependencies:
       '@supabase-cache-helpers/eslint-config-custom': link:../eslint-config-custom
@@ -624,7 +624,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/storage-mutate:
@@ -637,7 +637,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     devDependencies:
       '@supabase-cache-helpers/eslint-config-custom': link:../eslint-config-custom
@@ -648,7 +648,7 @@ importers:
       eslint: 8.40.0
       jest: 29.6.1
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/storage-react-query:
@@ -673,7 +673,7 @@ importers:
       react: 18.2.0
       react-dom: 18.2.0
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     dependencies:
       '@supabase-cache-helpers/storage-fetcher': link:../storage-fetcher
@@ -697,7 +697,7 @@ importers:
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/storage-swr:
@@ -722,7 +722,7 @@ importers:
       react-dom: 18.2.0
       swr: ^2.2.0
       ts-jest: 29.1.0
-      tsup: 7.1.0
+      tsup: 7.2.0
       typescript: 5.0.4
     dependencies:
       '@supabase-cache-helpers/storage-fetcher': link:../storage-fetcher
@@ -746,7 +746,7 @@ importers:
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
       ts-jest: 29.1.0_h3chewswfumn73isgevfokf3pe
-      tsup: 7.1.0_typescript@5.0.4
+      tsup: 7.2.0_typescript@5.0.4
       typescript: 5.0.4
 
   packages/tsconfig:
@@ -10671,8 +10671,8 @@ packages:
     resolution: {integrity: sha512-336iVw3rtn2BUK7ORdIAHTyxHGRIHVReokCR3XjbckJMK7ms8FysBfhLR8IXnAgy7T0PTPNBWKiH514FOW/WSg==}
     dev: false
 
-  /tsup/7.1.0_typescript@5.0.4:
-    resolution: {integrity: sha512-mazl/GRAk70j8S43/AbSYXGgvRP54oQeX8Un4iZxzATHt0roW0t6HYDVZIXMw0ZQIpvr1nFMniIVnN5186lW7w==}
+  /tsup/7.2.0_typescript@5.0.4:
+    resolution: {integrity: sha512-vDHlczXbgUvY3rWvqFEbSqmC1L7woozbzngMqTtL2PGBODTtWlRwGDDawhvWzr5c1QjKe4OAKqJGfE1xeXUvtQ==}
     engines: {node: '>=16.14'}
     hasBin: true
     peerDependencies:
